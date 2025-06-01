@@ -1,0 +1,13 @@
+.lol,
+.lie{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+
+.lol{
+    background-color: black;
+    color: white;
+}
+.lie{
+    background-color: yellow;
+}
